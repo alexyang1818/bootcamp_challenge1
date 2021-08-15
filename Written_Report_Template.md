@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### To inform Louise on how campaign outcomes can differ in correlation with campaign factors, this project investigated campaign outcomes in relation to their launch dates and their funding goals. To tailor the investigation according to Louise's campaign category, launch dates were investigated for only the "theater" category and funding goals were investigated for only the "plays" subcategory.
+### To inform Louise on how campaign outcomes can differ in correlation with campaign factors, this project investigated the outcomes in relation to their launch dates and their funding goals. To tailor the investigation according to Louise's campaign category, launch dates were investigated for only the "theater" category and funding goals were investigated for only the "plays" subcategory.
 <br>
 
 ## Analysis and Challenges
@@ -12,13 +12,13 @@
 
 ![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png) <br>
 
-The number of successful campaigns peaks in May and then starts to decrease through June and July. It is back to the baseline level in August. On the other hand, the numbers of failed and canceled campaigns do not vary with the month. Therefore, to launch a theater campaign in May, or June and July, is recommended.
+The number of successful campaigns peaks in May and then starts to decrease through June and July. It is back to the baseline level in August. It is worth noting that campaigns launched in December are below the baseline for success. On the other hand, the numbers of failed and canceled campaigns do not vary significantly with the month. Therefore, to launch a theater campaign in May, or June and July, is recommended.
 <br>
 <br>
 
 ### Analysis of Outcomes Based on Goals
 
-The successful rate of campaigns in the "plays" subcategory was further investigated based on their funding goals.
+The successful percentage of campaigns in the "plays" subcategory was further investigated based on their funding goals.
 <br>
 
 | Goal |	Number Successful |	Number Failed  |	Total Projects	| Percentage Successful |	Percentage Failed |	
@@ -35,13 +35,13 @@ The successful rate of campaigns in the "plays" subcategory was further investig
 |40000 to 44999 |	      2|	     1|	      3|	67%|	 33%|
 |45000 to 49999 |	      0|	     1|	      1|	 0%|	100%|	
 |Greater Than 50000 |	  2|	    14|	     16|	13%|	 88%|
-|
 
-It is noticed that the number of Total Projects is small when the goal is greater than 15000, especially when the goal is greater than 25000. Therefore, any conclusion drawn from this range should be cross-checked carefully due to lack of samples.
+
+It is noticed that the number of Total Projects is small when the goal is greater than 15000, especially when the goal is greater than 25000. Therefore, any observation made from this range should be cross-checked carefully due to lack of samples.
 <br>
 <br>
 
-Below is the plot of successful and failed rate in relation to campaign goals.
+Below is the plot of successful and failed percentage in relation to campaign goals.
 <br>
 <br>
 
@@ -49,13 +49,13 @@ Below is the plot of successful and failed rate in relation to campaign goals.
 <br>
 <br>
 
-For campaign goals less than 25000, the successful rate decreases monotonically with campaign goal. The successful rate is higher than 70% when the campaign goal is less than 5000. When the campaign goal becomes greater than 5000, the successful rate immediately drops by about 20%.
+For campaign goals less than 25000, the successful percentage decreases monotonically with campaign goal. The successful percentage is higher than 70% when the campaign goal is less than 5000. When the campaign goal becomes greater than 5000, the successful percentage immediately drops by about 20%.
 <br>
 <br>
 
 ### Challenges and Difficulties Encountered
 
-When analyzing Outcomes Based on Goal, the successful rate increases dramatically for goals between 35000 and 45000. However, this observation is probably false due to small sample size. Recommendation to Louise should exclude this observation until concrete evidence becomes available.
+When analyzing Outcomes Based on Goal, the successful percentage increases dramatically for goals between 35000 and 45000. However, this observation is probably false due to small sample size. Recommendation to Louise should exclude this observation until concrete evidence becomes available.
 <br>
 <br>
 
@@ -67,14 +67,14 @@ When analyzing Outcomes Based on Goal, the successful rate increases dramaticall
     One conclusion that can be drawn is that the number of successful campaigns peaks for launch dates in May and remains higher than baseline until July. As contrary, it is the lowest in December. 
     <br>
     <br>
-    The second conclusion is that the number of failed campaigns does not correlate to the month. However, factors other than the month may lead to failed campaigns. 
+    The second conclusion is that the number of failed campaigns does not correlate to the month. However, factors other than the month may cause failed campaigns and therefore should be investigated. 
     <br>
     <br>
 
 - What can you conclude about the Outcomes based on Goals?
     <br>
     <br>
-    The outcomes decreases with increase campaign goals. 
+    The outcomes decreases with increasing campaign goals. 
     <br>
     <br>
 
