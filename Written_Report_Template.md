@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 <br>
 
-![Theater Outcomes Based on Launch Date](\resources\Theater_Outcomes_vs_Launch.png) <br>
+![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png) <br>
 
 The number of successful campaigns peaks in May and then starts to decrease through June and July. It is back to the baseline level in August. On the other hand, the numbers of failed and canceled campaigns do not vary with the month. Therefore, to launch a theater campaign in May, or June and July, is recommended.
 <br>
@@ -45,7 +45,7 @@ Below is the plot of successful and failed rate in relation to campaign goals.
 <br>
 <br>
 
-![Outcomes Based on Goal](\resources\Outcomes_vs_Goals.png) 
+![Outcomes Based on Goal](Outcomes_vs_Goals.png) 
 <br>
 <br>
 
@@ -64,33 +64,31 @@ When analyzing Outcomes Based on Goal, the successful rate increases dramaticall
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
     <br>
     <br>
-
     One conclusion that can be drawn is that the number of successful campaigns peaks for launch dates in May and remains higher than baseline until July. As contrary, it is the lowest in December. 
     <br>
     <br>
-
     The second conclusion is that the number of failed campaigns does not correlate to the month. However, factors other than the month may lead to failed campaigns. 
     <br>
     <br>
 
 - What can you conclude about the Outcomes based on Goals?
-<br>
-<br>
+    <br>
+    <br>
     The outcomes decreases with increase campaign goals. 
-<br>
-<br>
+    <br>
+    <br>
 
 - What are some limitations of this dataset?
-<br>
-<br>
+    <br>
+    <br>
     The sample size is too small for certain subset of data to draw concrete conclusions.
-<br>
-<br>
+    <br>
+    <br>
 
 - What are some other possible tables and/or graphs that we could create?
-<br>
-<br>
+    <br>
+    <br>
     When evaluating the campaign outcomes, the ratio between "pledged" and "goal" can be a better method than simply classifying the outcome as "success" or "failed". The pledged-to-goal ratio may provide more granularity for the analysis.
-<br>
-<br>
+    <br>
+    <br>
     Additionally, the campaign duration and its correlation with launch dates and campaign goals might be informative for Louise.
