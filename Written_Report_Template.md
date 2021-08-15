@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 <br>
 
-![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png) <br>
+![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png) <br>
 
 The number of successful campaigns peaks in May and then starts to decrease through June and July. It is back to the baseline level in August. On the other hand, the numbers of failed and canceled campaigns do not vary with the month. Therefore, to launch a theater campaign in May, or June and July, is recommended.
 <br>
@@ -45,7 +45,7 @@ Below is the plot of successful and failed rate in relation to campaign goals.
 <br>
 <br>
 
-![Outcomes Based on Goal](Outcomes_vs_Goals.png) 
+![Outcomes Based on Goal](resources/Outcomes_vs_Goals.png) 
 <br>
 <br>
 
